@@ -1,0 +1,96 @@
+/*Estilizacao do corpo da pagina*/
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1;
+    font-family: 'Tahoma', 'Arial';
+}
+/*Estilizacao da sessao HEADER da pagina*/
+header{
+    background: #000000;
+    padding: 20px 0;
+}
+/*Estilizacao da sessao NAV da pagina*/
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color:#ffffff;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover{
+    color:#FF0000;
+    text-decoration: underline;
+}
+/*Estilizacao das linhas das paginas*/
+ul {
+	list-style: none;
+}
+/*Estilizacao do logotipo*/
+.logo_caixa{
+    width: 940px;
+    position: relative;
+    margin: auto;
+}
+/*==Banner==*/
+.banner{
+	width:100%
+}
+.logo{
+	width: 50%;
+}
+/*Estilizacao do banner*/
+.banner{
+	width: 100%;
+}
+/*Estilizacao do sobre*/
+.titulo-principal{
+	text-align: center;
+	font-size: 2em; /* dobro da fonte padrao*/
+	margin: 0 0 1em;
+	clean: left;
+}
+.principal{
+	width: 940px;
+	margin: 0 auto;
+	padding: 3em 0;
+	backgroud: #FFFFFE;
+	text-align: justify;
+}
+.principal strong{
+	font-weight: bold;
+}
+.principal em{
+	font-style: italic;
+}
+.pizza{
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+/*Estilizacao do Mapa*/
+.map{
+	padding: 3em 0;
+	backgroud: linear-gradient(#FFFFFE, #ffbb00)
+}
+.mapa-conteudo{
+	width: 1600 px;
+	margin: 0 auto;
+^}
+.map p{
+	margin: 0 10 2em;
+	text-align: center;
+}
+
+	
+	
